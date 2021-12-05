@@ -23,7 +23,7 @@ Tela Principal
 
 Tela do Jogo
 <div align="center" >
-  <img src="./public/assets/Telajogo.png">
+  <img src="./public/assets/telajogo.png">
 </div>
 
 
